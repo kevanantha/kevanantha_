@@ -1,5 +1,5 @@
 # Kevin Anantha - @kevanantha
-👋 Hola! I'm a web developer Mekari working on internal tools. I break things but at least I learn.
+👋 Hola! I'm a web developer @Mekari working on internal tools. I break things but at least I learn.
 
 ### 🔭 Current goal
 I want to learn and make Design System Language also explore and deep dive into Front End things (even if I must re-learn about HTML and CSS, or sort of 😄), to achieve this goal I always learn from the existing project on Github and keep research and curious (hopefully I can achieve my goal).
