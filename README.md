@@ -1,4 +1,8 @@
 # Kevin Anantha - @kevanantha
+
+👋 Hola!
+
+<!--
 👋 Hola! I'm a web developer @Mekari working on internal tools. I break things but at least I learn.
 
 ### 🔭 Current goal
@@ -15,7 +19,7 @@ I want to learn and make Design System Language also explore and deep dive into 
 ### 👯 I’m looking {to collaborate,for help} on
 Design System Language
 
-<!--
+
 **kevanantha/kevanantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
