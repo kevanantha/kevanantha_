@@ -2,6 +2,8 @@
 
 👋 Hola!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevanantha)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 👋 Hola! I'm a web developer @Mekari working on internal tools. I break things but at least I learn.
 
