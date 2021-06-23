@@ -1,4 +1,4 @@
-# Kevin Anantha - @kevanantha
+<!--# Kevin Anantha - @kevanantha -->
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevanantha&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
