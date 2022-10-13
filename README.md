@@ -6,7 +6,7 @@
 
 [![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevanantha&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://volt.fm/kevan)]
+[![kev's spotify](https://volt.fm/kevan)]
 
 <!--
 👋 Hola! I'm a web developer @Mekari working on internal tools. I break things but at least I learn.
