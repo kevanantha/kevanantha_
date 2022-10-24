@@ -1,5 +1,7 @@
 <!--# Kevin Anantha - @kevanantha -->
 
+<a href="https://app.daily.dev/kevan"><img src="https://api.daily.dev/devcards/146ef905039d449c9ab5aa87981ff3fc.png?r=0lg" width="400" alt="kevan's Dev Card"/></a>
+
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevanantha&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Kevin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevanantha&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
