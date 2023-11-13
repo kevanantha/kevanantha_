@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevanantha&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
 
-[![kev's spotify](https://volt.fm/kevan)](https://volt.fm/kevan)
-
 <!--
 👋 Hola! I'm a web developer @Mekari working on internal tools. I break things but at least I learn.
 
